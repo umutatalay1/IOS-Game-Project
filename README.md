@@ -6,13 +6,16 @@ Bu proje, hızlı tempolu ve basit bir oynanışa sahip olan, saf beceriye dayal
 
 Bu minimalist oyunda amacınız, ekranda beliren 3 farklı şekil arasında doğru kararı vererek en yüksek puanı toplamak ve tehlikeden kaçınmaktır.
 
-# Puan Toplama: Belirlenen iki farklı şekle dokunarak/çarparak puan kazanın.
+# Puan Toplama: 
+Belirlenen iki farklı şekle dokunarak/çarparak puan kazanın.
 
-Kaçın: Siyah karelere dikkat edin! Siyah kareye denk gelirseniz yanarsınız ve oyun yeniden başlar.
+# Yanma:
+ Siyah karelere dikkat edin! Siyah kareye denk gelirseniz yanarsınız ve oyun yeniden başlar.
 
-Mücadele: Skorunuz sürekli artarken, hareketlerinizin hızına ve doğruluğuna ihtiyacınız olacak.
+# Mücadele
+Skorunuz sürekli artarken, hareketlerinizin hızına ve doğruluğuna ihtiyacınız olacak.
 
-Özellikler:
+# Özellikler
 
 Basit 2D Grafikler: Hızlı prototipleme ve anlaşılır görsel tasarım.
 
