@@ -13,7 +13,7 @@ Ekranınızda beliren üç farklı şekil arasında anlık karar vermeniz gereki
 
 Mücadeleniz, en yüksek skora ulaşmak için gereken hızı, refleksleri ve soğukkanlılığı korumak üzerine kurulu.
 
-📈 * Özellikler *
+📈 ** Özellikler **
 Sade ve Etkili 2D Tasarım: Odak noktası sadece oynanış.
 
 Dinamik Skor Takibi: Oyun sonunda Anlık Skor ve kırılması zor En Yüksek Skor kayıtlarını gösterir.
