@@ -1,4 +1,4 @@
-# IOS Game Project: Kazanılabilir olanı topla, tehlikeli olandan kaç!
+# 🎮 IOS Game Project: Kazanılabilir olanı topla, tehlikeli olandan kaç!
 🕹️ Bu depo, basit, hızlı tempolu ve saf beceriye dayalı bir 2D mobil oyunun kaynak kodunu içerir. Proje, hem oyun geliştirme temellerini öğrenmek hem de sade bir oynanış sunmak amacıyla Swift ile geliştirilmiştir.
 
 # Oynanış:
