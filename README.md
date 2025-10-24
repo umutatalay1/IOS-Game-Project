@@ -1,40 +1,38 @@
-# IOS Game Project
-🕹️ Basit ve Bağımlılık Yapıcı 2D Kaçınma ve Puan Toplama Oyunu
-Bu proje, hızlı tempolu ve basit bir oynanışa sahip olan, saf beceriye dayalı bir 2D oyunun kaynak kodunu içermektedir.
+# IOS Game Project: Kazanılabilir olanı topla, tehlikeli olandan kaç!
+🕹️ Bu depo, basit, hızlı tempolu ve saf beceriye dayalı bir 2D mobil oyunun kaynak kodunu içerir. Proje, hem oyun geliştirme temellerini öğrenmek hem de sade bir oynanış sunmak amacıyla Swift ile geliştirilmiştir.
 
 # Oynanış:
 
-Bu minimalist oyunda amacınız, ekranda beliren 3 farklı şekil arasında doğru kararı vererek en yüksek puanı toplamak ve tehlikeden kaçınmaktır.
+Bu minimalist oyunda tek hedefiniz var: Kazanılabilir olanı topla, tehlikeli olandan kaç!
 
-# Puan Toplama: 
-Belirlenen iki farklı şekle dokunarak/çarparak puan kazanın.
+Ekranınızda beliren üç farklı şekil arasında anlık karar vermeniz gerekiyor:
 
-# Yanma:
- Siyah karelere dikkat edin! Siyah kareye denk gelirseniz yanarsınız ve oyun yeniden başlar.
+🟢 Puan Topla: Belirlenen iki farklı şekle dokunarak/çarparak puanınızı artırın.
 
-# Mücadele:
-Skorunuz sürekli artarken, hareketlerinizin hızına ve doğruluğuna ihtiyacınız olacak.
+⚫ Kaçın / İmha Olma: Siyah karelere dikkat edin! Siyah kareye temas etmeniz anında yenilgiye (veya imha olmaya) yol açar ve oyun yeniden başlar.
 
-# 🟩 Özellikler:
+Mücadeleniz, en yüksek skora ulaşmak için gereken hızı, refleksleri ve soğukkanlılığı korumak üzerine kurulu.
 
-2D minimalist tasarım
+📈 * Özellikler *
+Sade ve Etkili 2D Tasarım: Odak noktası sadece oynanış.
 
-Puan toplama ve kaçınma mekaniği
+Dinamik Skor Takibi: Oyun sonunda Anlık Skor ve kırılması zor En Yüksek Skor kayıtlarını gösterir.
 
-Anlık skor ve en yüksek skor takibi
+Hızlı Tekrar Oynanabilirlik: Her yenilgiden sonra saniyeler içinde yeni bir oyuna başlayarak rekorunuzu kovalama imkanı.
 
-Basit, eğlenceli ve refleks odaklı oynanış
+Platform: iOS (Swift/SwiftUI/SpriteKit vb. ekleyebilirsiniz).
 
-Kurulum ve Çalıştırma:
+Minimalist Kullanım: Basit, eğlenceli ve refleks odaklı oynanış sunar.
 
-Bu depoyu klonlayın: git clone [Depo Adresi]
+🛠️ Kurulum ve Çalıştırma
+Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin:
 
-Proje klasörüne gidin: cd [Proje Klasör Adı]
+Depoyu Klonlayın:
 
-[Gerekli Adımları Buraya Ekleyin, Örn: Gerekli kütüphaneleri yükleyin: pip install pygame gibi.]
+Klasöre Girin:
 
-Oyunu çalıştırın: [Oyun Çalıştırma Komutu]
+Çalıştırma:
 
-Katkıda Bulunma:
+iOS/Xcode Projeleri için: Proje dosyasını (.xcodeproj veya .xcworkspace) Xcode ile açın ve bir Simülatör veya cihaza Build edin/Çalıştırın.
 
-Bu basit 2D projeyi daha da geliştirmek isterseniz her türlü katkıya açığım! Hata raporları, yeni özellik önerileri veya kod iyileştirmeleri için Pull Request göndermekten çekinmeyin.
+Diğer Diller/Motorlar için: [Gerekli adımları buraya ekleyin, örn: python [oyun_adi].py ]
