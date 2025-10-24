@@ -2,7 +2,7 @@
 🕹️ Basit ve Bağımlılık Yapıcı 2D Kaçınma ve Puan Toplama Oyunu
 Bu proje, hızlı tempolu ve basit bir oynanışa sahip olan, saf beceriye dayalı bir 2D oyunun kaynak kodunu içermektedir.
 
-# Oynanış;
+# Oynanış:
 
 Bu minimalist oyunda amacınız, ekranda beliren 3 farklı şekil arasında doğru kararı vererek en yüksek puanı toplamak ve tehlikeden kaçınmaktır.
 
@@ -12,18 +12,18 @@ Belirlenen iki farklı şekle dokunarak/çarparak puan kazanın.
 # Yanma:
  Siyah karelere dikkat edin! Siyah kareye denk gelirseniz yanarsınız ve oyun yeniden başlar.
 
-# Mücadele
+# Mücadele:
 Skorunuz sürekli artarken, hareketlerinizin hızına ve doğruluğuna ihtiyacınız olacak.
 
-# Özellikler
+# 🟩 Özellikler:
 
-Basit 2D Grafikler: Hızlı prototipleme ve anlaşılır görsel tasarım.
+2D minimalist tasarım
 
-Yüksek Skor Sistemi: Her oyun sonunda anlık skorunuzu ve elde ettiğiniz En Yüksek Skoru görebilirsiniz. Kendi rekorunuzu kırmak için tekrar tekrar oynamak isteyeceksiniz!
+Puan toplama ve kaçınma mekaniği
 
-Anlık Geri Bildirim: Hata yaptığınız anda oyunun yeniden başlamasıyla hızlı bir döngü sunar.
+Anlık skor ve en yüksek skor takibi
 
-[Kullandığınız Teknoloji/Motor Adı] ile geliştirilmiştir. (Örn: Pygame, Unity, HTML5 Canvas vb.)
+Basit, eğlenceli ve refleks odaklı oynanış
 
 Kurulum ve Çalıştırma:
 
