@@ -37,3 +37,6 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları tak
 
 iOS/Xcode Projeleri için: Proje dosyasını (.xcodeproj veya .xcworkspace) Xcode ile açın ve bir Simülatör veya cihaza Build edin/Çalıştırın.
 
+<img width="1206" height="2622" alt="Simulator - Ana Sayfa" src="https://github.com/user-attachments/assets/aef27321-f8e5-4b3c-9309-ddeaee8201e0" />
+<img width="1206" height="2622" alt="Simulator - Oyun İçi" src="https://github.com/user-attachments/assets/e25ceeb5-37c5-43ff-9969-f7a53a27bd65" />
+<img width="1206" height="2622" alt="Simulator - Oyun Sonu" src="https://github.com/user-attachments/assets/f56547ee-3643-4739-8f4b-97384ca68c90" />
