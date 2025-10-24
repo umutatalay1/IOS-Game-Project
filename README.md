@@ -1,12 +1,12 @@
-#IOS GAME PROJECT
-🕹️ Basit ve Bağımlılık Yapıcı 2D Kaçınma ve Toplama Oyunu
+# IOS Game Project
+🕹️ Basit ve Bağımlılık Yapıcı 2D Kaçınma ve Puan Toplama Oyunu
 Bu proje, hızlı tempolu ve basit bir oynanışa sahip olan, saf beceriye dayalı bir 2D oyunun kaynak kodunu içermektedir.
 
-Oynanış:
+# Oynanış;
 
 Bu minimalist oyunda amacınız, ekranda beliren 3 farklı şekil arasında doğru kararı vererek en yüksek puanı toplamak ve tehlikeden kaçınmaktır.
 
-Puan Topla: Belirlenen iki farklı şekle dokunarak/çarparak puan kazanın.
+# Puan Toplama: Belirlenen iki farklı şekle dokunarak/çarparak puan kazanın.
 
 Kaçın: Siyah karelere dikkat edin! Siyah kareye denk gelirseniz yanarsınız ve oyun yeniden başlar.
 
