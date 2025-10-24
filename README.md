@@ -29,11 +29,11 @@ Mücadeleniz, en yüksek skora ulaşmak için gereken hızı, refleksleri ve so�
 # 🛠️ Kurulum ve Çalıştırma
 Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin:
 
-Depoyu Klonlayın:
+🔴 Depoyu Klonlayın:
 
-Klasöre Girin:
+⚫ Klasöre Girin:
 
-Çalıştırma:
+🟡 Çalıştırma:
 
 iOS/Xcode Projeleri için: Proje dosyasını (.xcodeproj veya .xcworkspace) Xcode ile açın ve bir Simülatör veya cihaza Build edin/Çalıştırın.
 
