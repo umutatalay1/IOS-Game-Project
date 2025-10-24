@@ -13,14 +13,14 @@ Ekranınızda beliren üç farklı şekil arasında anlık karar vermeniz gereki
 
 Mücadeleniz, en yüksek skora ulaşmak için gereken hızı, refleksleri ve soğukkanlılığı korumak üzerine kurulu.
 
-📈 ** Özellikler **
+📈 # Özellikler
 Sade ve Etkili 2D Tasarım: Odak noktası sadece oynanış.
 
 Dinamik Skor Takibi: Oyun sonunda Anlık Skor ve kırılması zor En Yüksek Skor kayıtlarını gösterir.
 
 Hızlı Tekrar Oynanabilirlik: Her yenilgiden sonra saniyeler içinde yeni bir oyuna başlayarak rekorunuzu kovalama imkanı.
 
-Platform: iOS (Swift/SwiftUI/SpriteKit vb. ekleyebilirsiniz).
+Platform: iOS (Swift/SwiftUI/SpriteKit vb.).
 
 Minimalist Kullanım: Basit, eğlenceli ve refleks odaklı oynanış sunar.
 
@@ -35,4 +35,3 @@ Klasöre Girin:
 
 iOS/Xcode Projeleri için: Proje dosyasını (.xcodeproj veya .xcworkspace) Xcode ile açın ve bir Simülatör veya cihaza Build edin/Çalıştırın.
 
-Diğer Diller/Motorlar için: [Gerekli adımları buraya ekleyin, örn: python [oyun_adi].py ]
