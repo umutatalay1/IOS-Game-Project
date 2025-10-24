@@ -7,24 +7,26 @@ Bu minimalist oyunda tek hedefiniz var: Kazanılabilir olanı topla, tehlikeli o
 
 Ekranınızda beliren üç farklı şekil arasında anlık karar vermeniz gerekiyor:
 
-🟢 Puan Topla: Belirlenen iki farklı şekle dokunarak/çarparak puanınızı artırın.
+🟡 Puan Topla: Belirlenen iki farklı şekle dokunarak/çarparak puanınızı artırın.
 
 ⚫ Kaçın / İmha Olma: Siyah karelere dikkat edin! Siyah kareye temas etmeniz anında yenilgiye (veya imha olmaya) yol açar ve oyun yeniden başlar.
 
 Mücadeleniz, en yüksek skora ulaşmak için gereken hızı, refleksleri ve soğukkanlılığı korumak üzerine kurulu.
 
-📈 # Özellikler
-Sade ve Etkili 2D Tasarım: Odak noktası sadece oynanış.
+# 📈 Özellikler:
 
-Dinamik Skor Takibi: Oyun sonunda Anlık Skor ve kırılması zor En Yüksek Skor kayıtlarını gösterir.
 
-Hızlı Tekrar Oynanabilirlik: Her yenilgiden sonra saniyeler içinde yeni bir oyuna başlayarak rekorunuzu kovalama imkanı.
+🔴 Sade ve Etkili 2D Tasarım: Odak noktası sadece oynanış.
 
-Platform: iOS (Swift/SwiftUI/SpriteKit vb.).
+⚫ Dinamik Skor Takibi: Oyun sonunda Anlık Skor ve kırılması zor En Yüksek Skor kayıtlarını gösterir.
 
-Minimalist Kullanım: Basit, eğlenceli ve refleks odaklı oynanış sunar.
+🟡 Hızlı Tekrar Oynanabilirlik: Her yenilgiden sonra saniyeler içinde yeni bir oyuna başlayarak rekorunuzu kovalama imkanı.
 
-🛠️ Kurulum ve Çalıştırma
+⚫ Platform: iOS (Swift/SwiftUI/SpriteKit vb.).
+
+🔴 Minimalist Kullanım: Basit, eğlenceli ve refleks odaklı oynanış sunar.
+
+# 🛠️ Kurulum ve Çalıştırma
 Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin:
 
 Depoyu Klonlayın:
